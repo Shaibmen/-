@@ -13,7 +13,6 @@ namespace Dispetcher
     {
         static void Main(string[] args)
         {
-            /*showpapka("C:\\Program Files");*/
             ShowZadachi();
         }
 
