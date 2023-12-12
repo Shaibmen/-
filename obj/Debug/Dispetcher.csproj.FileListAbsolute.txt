@@ -1,0 +1,7 @@
+C:\Users\Миша\Projects\ProjectC\Dispetcher\bin\Debug\Dispetcher.exe.config
+C:\Users\Миша\Projects\ProjectC\Dispetcher\bin\Debug\Dispetcher.exe
+C:\Users\Миша\Projects\ProjectC\Dispetcher\bin\Debug\Dispetcher.pdb
+C:\Users\Миша\Projects\ProjectC\Dispetcher\obj\Debug\Dispetcher.csproj.AssemblyReference.cache
+C:\Users\Миша\Projects\ProjectC\Dispetcher\obj\Debug\Dispetcher.csproj.CoreCompileInputs.cache
+C:\Users\Миша\Projects\ProjectC\Dispetcher\obj\Debug\Dispetcher.exe
+C:\Users\Миша\Projects\ProjectC\Dispetcher\obj\Debug\Dispetcher.pdb
